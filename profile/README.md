@@ -11,3 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 [![gitanimals](https://render.gitanimals.org/farms/leejaek)](https://github.com/devxb/gitanimals)
+[![gitanimals](https://render.gitanimals.org/farms/pengooseDev)](https://github.com/devxb/gitanimals)
